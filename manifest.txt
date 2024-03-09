@@ -1,0 +1,14 @@
+ModificationType: Mod
+Name: Zero Hour Enhanced
+Version: 1.0.0
+SimpleDownloadLink: ''
+UIImageSourceLink: https://media.moddb.com/images/members/1/244/243031/profile/zhe_genlauncher_image.png
+DiscordLink: https://discord.gg/7NsTfDD
+ModDBLink: https://www.moddb.com/mods/cc-generals-zero-hour-enhanced
+NewsLink: https://www.moddb.com/mods/cc-generals-zero-hour-enhanced
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: 'enhancedmod'
+S3FolderName: 'enhancedfolder'
+S3HostPublicKey: ''
+S3HostSecretKey: ''
