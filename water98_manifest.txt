@@ -1,5 +1,5 @@
 ModificationType: Addon
-Name: ZHE Addon - Clouds Only Water Reflection
+Name: ZHE Addon - Medium Water Reflection
 Version: 1.0.0
 SimpleDownloadLink: https://drive.google.com/uc?export=download&id=1ZSW16FpS2elVzL-FWHTqvaju6hgQ1DNr
 UIImageSourceLink: ''
