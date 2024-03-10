@@ -1,6 +1,6 @@
 ModificationType: Mod
 Name: Zero Hour Enhanced
-Version: 1.0.0a
+Version: 1.0.0a GenLauncherFix 1
 SimpleDownloadLink: ''
 UIImageSourceLink: https://media.moddb.com/images/members/1/244/243031/profile/zhe_genlauncher_image.png
 DiscordLink: https://discord.gg/7NsTfDD
