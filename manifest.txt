@@ -1,6 +1,6 @@
 ModificationType: Mod
 Name: Zero Hour Enhanced
-Version: 1.0.0
+Version: 1.0.0a
 SimpleDownloadLink: ''
 UIImageSourceLink: https://media.moddb.com/images/members/1/244/243031/profile/zhe_genlauncher_image.png
 DiscordLink: https://discord.gg/7NsTfDD
@@ -12,3 +12,18 @@ S3BucketName: 'enhancedmod'
 S3FolderName: 'enhancedfolder'
 S3HostPublicKey: ''
 S3HostSecretKey: ''
+SupportLink: https://ko-fi.com/vectoriv
+ColorsInformation:
+  GenLauncherBorderColor: '#808080'
+  GenLauncherInactiveBorder: '#505050'
+  GenLauncherInactiveBorder2: '#505050'
+  GenLauncherActiveColor: '#ffffff'
+  GenLauncherDarkFillColor: '#202020'
+  GenLauncherDarkBackGround: '#000000'
+  GenLauncherLightBackGround: '#000000'
+  GenLauncherDefaultTextColor: White
+  GenLauncherDownloadTextColor: White
+  GenLauncherListBoxSelectionColor2: '#20202030'
+  GenLauncherListBoxSelectionColor1: '#00000000'
+  GenLauncherButtonSelectionColor: '#940000'
+  GenLauncherBackgroundImageLink: https://media.moddb.com/images/members/1/244/243031/profile/genlauncher_background.png
