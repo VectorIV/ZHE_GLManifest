@@ -1,0 +1,15 @@
+ModificationType: Addon
+Name: ZHE Addon - HD Cameo
+Version: 1.0
+SimpleDownloadLink: https://drive.google.com/uc?export=download&id=1j-irgbi9DfQYmHIkwW-8f79lKOo09gDB
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: Zero Hour Enhanced
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
