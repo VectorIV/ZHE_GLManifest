@@ -1,5 +1,5 @@
 ModificationType: Addon
-Name: ZHE Addon - No Depth of Field Filter (Annoying Gradient at the Top of the Screen)
+Name: ZHE Addon - No DoF Filter
 Version: 1.0.0
 SimpleDownloadLink: https://drive.google.com/uc?export=download&id=1wq0f559XofN5tft8IPrrfno0ix7rKcaM
 UIImageSourceLink: ''
