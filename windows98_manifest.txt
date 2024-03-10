@@ -1,0 +1,15 @@
+ModificationType: Addon
+Name: ZHE Addon - No Depth of Field Filter (Annoying Gradient at the Top of the Screen)
+Version: 1.0.0
+SimpleDownloadLink: https://drive.google.com/uc?export=download&id=1wq0f559XofN5tft8IPrrfno0ix7rKcaM
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: Zero Hour Enhanced
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''

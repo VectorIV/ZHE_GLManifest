@@ -1,0 +1,15 @@
+ModificationType: Addon
+Name: ZHE Addon - QHD UI
+Version: 1.0.0
+SimpleDownloadLink: https://drive.google.com/uc?export=download&id=1_UEckgyUP3XMnz3sJ_vxBH8dfp11Fk4_
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: Zero Hour Enhanced
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''

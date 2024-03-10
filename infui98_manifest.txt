@@ -1,0 +1,15 @@
+ModificationType: Addon
+Name: ZHE Addon - Infantry Class Icon 75% Scale
+Version: 1.0.0
+SimpleDownloadLink: https://drive.google.com/uc?export=download&id=1wKqdz8HdeNqfQemuHtmA6MnfcXtpi5tg
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: Zero Hour Enhanced
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
