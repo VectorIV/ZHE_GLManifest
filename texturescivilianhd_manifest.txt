@@ -1,5 +1,5 @@
 ModificationType: Addon
-Name: ZHE Addon - HD Civilian Textures
+Name: ZHE - HD Civilian Textures
 Version: 1.0.0
 SimpleDownloadLink: https://onedrive.live.com/embed?resid=8A944963B9E83076%21117&authkey=!AMVCvX32GVdAvEU
 UIImageSourceLink: ''

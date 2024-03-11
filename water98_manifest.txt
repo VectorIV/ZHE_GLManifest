@@ -1,5 +1,5 @@
 ModificationType: Addon
-Name: ZHE Addon - Medium Water Reflection
+Name: ZHE - Medium Water Reflection
 Version: 1.0.0
 SimpleDownloadLink: https://onedrive.live.com/embed?resid=8A944963B9E83076!115&authkey=!AIW7R14LhgF8NEI
 UIImageSourceLink: ''

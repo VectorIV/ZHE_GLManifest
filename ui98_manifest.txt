@@ -1,5 +1,5 @@
 ModificationType: Addon
-Name: ZHE Addon - FHD UI
+Name: ZHE - FHD UI
 Version: 1.0.0
 SimpleDownloadLink: https://onedrive.live.com/embed?resid=8A944963B9E83076%21116&authkey=!AHScW3GJKDdpkMM
 UIImageSourceLink: ''

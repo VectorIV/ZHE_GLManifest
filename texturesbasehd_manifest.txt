@@ -1,5 +1,5 @@
 ModificationType: Addon
-Name: ZHE Addon - HD Faction Textures
+Name: ZHE - HD Faction Textures
 Version: 1.0.0
 SimpleDownloadLink: https://onedrive.live.com/embed?resid=8A944963B9E83076%21109&authkey=!AEJiBWeBd3oDJE8
 UIImageSourceLink: ''

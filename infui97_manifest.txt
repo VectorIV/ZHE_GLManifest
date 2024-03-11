@@ -1,5 +1,5 @@
 ModificationType: Addon
-Name: ZHE Addon - Infantry Class Icon 50% Scale
+Name: ZHE - Infantry Icon 50%
 Version: 1.0.0
 SimpleDownloadLink: https://onedrive.live.com/embed?resid=8A944963B9E83076%21110&authkey=!AGDU8m_YmNId10Q
 UIImageSourceLink: ''
