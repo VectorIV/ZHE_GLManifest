@@ -1,7 +1,7 @@
 ModificationType: Addon
 Name: ZHE Addon - HD Cameo
 Version: 1.0.0
-SimpleDownloadLink: https://drive.google.com/uc?export=download&id=1j-irgbi9DfQYmHIkwW-8f79lKOo09gDB
+SimpleDownloadLink: https://onedrive.live.com/download?resid=8A944963B9E83076%21108&authkey=!AEEqGtKgnmWRnTc"
 UIImageSourceLink: ''
 DiscordLink: ''
 ModDBLink: ''

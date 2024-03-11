@@ -1,7 +1,7 @@
 ModificationType: Addon
 Name: ZHE Addon - Animated Vanilla Water
 Version: 1.0.0
-SimpleDownloadLink: https://drive.google.com/uc?export=download&id=1hkOk8u8tQPd6ZSFkGxu-f0_udcAwiBMQ
+SimpleDownloadLink: https://onedrive.live.com/download?resid=8A944963B9E83076%21114&authkey=!ABsBXxzmNnvgKPE%22
 UIImageSourceLink: ''
 DiscordLink: ''
 ModDBLink: ''
