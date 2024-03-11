@@ -1,7 +1,7 @@
 ModificationType: Addon
 Name: ZHE Addon - QHD UI
 Version: 1.0.0
-SimpleDownloadLink: https://onedrive.live.com/download?resid=8A944963B9E83076%21113&authkey=!ACti4v5iWGr1l9M"
+SimpleDownloadLink: https://onedrive.live.com/embed?resid=8A944963B9E83076%21113&authkey=!ACti4v5iWGr1l9M
 UIImageSourceLink: ''
 DiscordLink: ''
 ModDBLink: ''
